@@ -22,6 +22,7 @@ my-mcp-server/
 ├── server.js          # MCP 서버 핵심 구현체
 ├── opencode.json      # OpenCode MCP 서버 설정 파일
 ├── package.json       # Node.js 의존성 및 스크립트
+├── log.txt            # log 기록 문서
 └── README.md          # 프로젝트 설명서
 ```
 
